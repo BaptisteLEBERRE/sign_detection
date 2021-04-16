@@ -1,5 +1,7 @@
 # Reconnaissance de la langue des signes
 
+Trello : https://trello.com/b/VhhJKqHA/briefsignes
+
 ## Contexte du projet: 
 
 Beaucoup de progrès et de recherches en IA ont été faites pour aider les personnes sourdes et muettes. L'apprentissage profond et la vision par ordinateur peuvent également être utilisés pour avoir un impact sur cette cause.
